@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b85f348-8239-43f0-b792-2f50fc7ceb84" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -15,45 +14,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="TestAppEnv.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainobject/TestAppEnv.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyFirstTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MySecondTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MySecondTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="210">
+              <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#192#193#0" expanded="true" />
-                <element signature="e#233#234#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="IntegerExamplesTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
+      <file leaf-file-name="TestAppEnvironmentTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap005testwithourownclasses/domainobject/examples/TestAppEnvironmentTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="310">
-              <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+            <state relative-caret-position="420">
+              <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -70,6 +48,11 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\Workspace\javaForTesters\src\test\java\com\javafortesters\com\javafortesters\chap005testwithourownclasses\domainobject\examples</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -93,14 +76,20 @@
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/Second.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MySecondTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/com/javafortesters/chap005testwithourownclasses/domainobject/examples/TestAppEnvironmentTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/javafortesters/domainobject/TestAppEnv.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/javafortesters/chap005testwithourownclasses/domainobject/examples/TestAppEnvironmentTest.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-109" />
-    <option name="y" value="63" />
-    <option name="width" value="1936" />
-    <option name="height" value="1066" />
+    <option name="x" value="2391" />
+    <option name="y" value="-9" />
+    <option name="width" value="2418" />
+    <option name="height" value="1331" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -118,7 +107,6 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,7 +117,33 @@
             <path>
               <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
               <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="domainobject" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
@@ -152,16 +166,36 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaForTesters" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaForTesters" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="javafortesters" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -169,6 +203,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.javafortesters.domainobject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -183,7 +220,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntegerExamplesTest.canConfirmMinMaxValue">
+  <component name="RunManager" selected="JUnit.TestAppEnvironmentTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -204,7 +241,7 @@
       <module name="" />
       <envs />
     </configuration>
-    <configuration name="IntegerExamplesTest.canConfirmMinMaxValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="IntegerExamplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="com.javafortesters.chap004testswithotherclasses.examples.*" />
@@ -216,81 +253,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.javafortesters.chap004testswithotherclasses.examples" />
       <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest" />
-      <option name="METHOD_NAME" value="canConfirmMinMaxValue" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="IntegerExamplesTest.canConvertHexToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap004testswithotherclasses.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="javaForTesters" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap004testswithotherclasses.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest" />
-      <option name="METHOD_NAME" value="canConvertHexToString" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="IntegerExamplesTest.integerExploration" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap004testswithotherclasses.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="javaForTesters" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap004testswithotherclasses.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap004testswithotherclasses.examples.IntegerExamplesTest" />
-      <option name="METHOD_NAME" value="integerExploration" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-    </configuration>
-    <configuration name="MySecondTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap003myfirsttest.examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="javaForTesters" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap003myfirsttest.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap003myfirsttest.examples.MySecondTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -304,20 +266,95 @@
       <envs />
       <patterns />
     </configuration>
-    <configuration name="TestSecond" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestAppEnvironmentTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.javafortesters.chap003myfirsttest.examples.*" />
+          <option name="PATTERN" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="javaForTesters" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="com.javafortesters.chap003myfirsttest.examples" />
-      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap003myfirsttest.examples.TestSecond" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestAppEnvironmentTest.canGetDomainAndPortStatically" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="javaForTesters" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest" />
+      <option name="METHOD_NAME" value="canGetDomainAndPortStatically" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestAppEnvironmentTest.canGetUrlStatically (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="javaForTesters" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.com.javafortesters.chap005testwithourownclasses.domainobject.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest" />
+      <option name="METHOD_NAME" value="canGetUrlStatically" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="TestAppEnvironmentTest.canGetUrlStatically" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.javafortesters.com.javafortesters.chap005testwithourownclasses.domainobject.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="javaForTesters" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.javafortesters.com.javafortesters.chap005testwithourownclasses.domainobject.examples" />
+      <option name="MAIN_CLASS_NAME" value="com.javafortesters.com.javafortesters.chap005testwithourownclasses.domainobject.examples.TestAppEnvironmentTest" />
+      <option name="METHOD_NAME" value="canGetUrlStatically" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -390,19 +427,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.TestSecond" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.MySecondTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest.integerExploration" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest.canConvertHexToString" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest.canConfirmMinMaxValue" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest.canGetUrlStatically" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest.canGetUrlStatically (1)" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest.canGetDomainAndPortStatically" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest.canConfirmMinMaxValue" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest.canConvertHexToString" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest.integerExploration" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.MySecondTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.TestSecond" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest.canGetUrlStatically (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest.canGetDomainAndPortStatically" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.TestAppEnvironmentTest.canGetUrlStatically" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.IntegerExamplesTest" />
       </list>
     </recent_temporary>
   </component>
@@ -423,55 +460,56 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="IntegerExamplesTest_canConfirmMinMaxValue - 2019.01.08 at 20h 30m 48s.xml">
-      <configuration name="IntegerExamplesTest.canConfirmMinMaxValue" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest - 2019.01.15 at 15h 39m 10s.xml">
+      <configuration name="TestAppEnvironmentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_canConfirmMinMaxValue - 2019.01.08 at 20h 31m 23s.xml">
-      <configuration name="IntegerExamplesTest.canConfirmMinMaxValue" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest - 2019.01.15 at 15h 43m 08s.xml">
+      <configuration name="TestAppEnvironmentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_canConvertHexToString - 2019.01.08 at 20h 23m 42s.xml">
-      <configuration name="IntegerExamplesTest.canConvertHexToString" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest - 2019.01.15 at 15h 43m 44s.xml">
+      <configuration name="TestAppEnvironmentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_canConvertHexToString - 2019.01.08 at 20h 23m 53s.xml">
-      <configuration name="IntegerExamplesTest.canConvertHexToString" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest - 2019.01.15 at 15h 46m 41s.xml">
+      <configuration name="TestAppEnvironmentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_canConvertHexToString - 2019.01.08 at 20h 25m 50s.xml">
-      <configuration name="IntegerExamplesTest.canConvertHexToString" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest - 2019.01.15 at 15h 47m 45s.xml">
+      <configuration name="TestAppEnvironmentTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_canConvertHexToString - 2019.01.08 at 20h 26m 27s.xml">
-      <configuration name="IntegerExamplesTest.canConvertHexToString" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest_canGetDomainAndPortStatically - 2019.01.15 at 14h 00m 42s.xml">
+      <configuration name="TestAppEnvironmentTest.canGetDomainAndPortStatically" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_canConvertHexToString - 2019.01.08 at 20h 26m 37s.xml">
-      <configuration name="IntegerExamplesTest.canConvertHexToString" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest_canGetDomainAndPortStatically - 2019.01.15 at 14h 05m 51s.xml">
+      <configuration name="TestAppEnvironmentTest.canGetDomainAndPortStatically" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_canConvertHexToString - 2019.01.08 at 20h 27m 08s.xml">
-      <configuration name="IntegerExamplesTest.canConvertHexToString" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest_canGetUrlStatically_(1) - 2019.01.15 at 13h 51m 27s.xml">
+      <configuration name="TestAppEnvironmentTest.canGetUrlStatically (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_integerExploration - 2019.01.08 at 20h 10m 39s.xml">
-      <configuration name="IntegerExamplesTest.integerExploration" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest_canGetUrlStatically_(1) - 2019.01.15 at 14h 08m 07s.xml">
+      <configuration name="TestAppEnvironmentTest.canGetUrlStatically (1)" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IntegerExamplesTest_integerExploration - 2019.01.08 at 20h 11m 10s.xml">
-      <configuration name="IntegerExamplesTest.integerExploration" configurationId="JUnit" />
+    <history-entry file="TestAppEnvironmentTest_canGetUrlStatically_(1) - 2019.01.15 at 14h 08m 50s.xml">
+      <configuration name="TestAppEnvironmentTest.canGetUrlStatically (1)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
+    <frame x="2391" y="-9" width="2418" height="1331" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3274648" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3283237" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="CheckStyle" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26262084" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2237404" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -483,7 +521,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="860" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="FLOATING" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" x="91" y="91" width="1738" height="860" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -492,11 +530,201 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="6" />
+      <option name="time" value="7" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MySecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MySecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MySecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MySecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MyFirstTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap003myfirsttest/examples/MySecondTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -518,7 +746,7 @@
         <state relative-caret-position="147">
           <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -528,9 +756,9 @@
         <state relative-caret-position="63">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -556,9 +784,9 @@
         <state relative-caret-position="63">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -593,9 +821,9 @@
         <state relative-caret-position="63">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#192#193#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#192#193#0" expanded="false" />
+            <element signature="e#233#234#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -608,10 +836,47 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap004testswithotherclasses/examples/IntegerExamplesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+        <state relative-caret-position="588">
+          <caret line="28" column="30" lean-forward="false" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/com/javafortesters/chap005testwithourownclasses/domainobject/examples/TestAppEnvironmentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/javafortesters/domainobject/TestAppEnv.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="47" lean-forward="false" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+          <folding>
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#288#289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/javafortesters/chap005testwithourownclasses/domainobject/examples/TestAppEnvironmentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="8" lean-forward="false" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
