@@ -19,5 +19,5 @@ public class UserTest {
 
         assertEquals("default password expected", "password", user.getPassword());
     }
-    
+
 }
